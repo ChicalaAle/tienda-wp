@@ -1,0 +1,4 @@
+2022-02-11T17:47:24+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\tienda_wp\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
+2022-02-11T17:47:26+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\tienda_wp\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
+2022-02-11T17:52:21+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\tienda_wp\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
+2022-02-11T17:52:23+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\tienda_wp\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
